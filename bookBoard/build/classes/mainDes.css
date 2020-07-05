@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+	td {
+	  text-align: center;
+	}
+	.table td {
+	  text-align: center;
+	}
+	th {
+	  text-align: center;
+	}
+	.table th {
+	  text-align: center;
+	  background-color: black;
+	  color: white;
+	}
+	
